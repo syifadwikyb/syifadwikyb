@@ -29,6 +29,4 @@ Hi! I’m Syifa Dwiky Basamala, a 5th-semester Computer Engineering student at D
 
 ---
 
-<p>Syifa Dwiky Basamala | 2023</p>
-
 </div>
