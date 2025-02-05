@@ -27,6 +27,4 @@ Hi! I’m Syifa Dwiky Basamala, a 5th-semester Computer Engineering student at D
 	</a>
 </div>
 
----
-
 </div>
