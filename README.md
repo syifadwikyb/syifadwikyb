@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-Hi! I’m Syifa Dwiky Basamala, a 5th-semester Computer Engineering student at Diponegoro University with a primary focus on Mobile Development. I’m passionate about creating impactful applications and solving real-world problems through technology.
+Hi! I’m Syifa Dwiky Basamala, a 7th-semester Computer Engineering student at Diponegoro University with a primary focus on Mobile Development. I’m passionate about creating impactful applications and solving real-world problems through technology.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dwikyb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syifadwikybasamala)
